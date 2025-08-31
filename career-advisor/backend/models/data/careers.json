@@ -1,0 +1,145 @@
+[
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "domain": "Technology, Analytics, AI/ML",
+    "skills": [
+      "python",
+      "statistics",
+      "machine learning",
+      "data visualization",
+      "sql"
+    ],
+    "education": [
+      "BTech CSE",
+      "BSc Statistics",
+      "MSc Data Science"
+    ],
+    "description": "Analyze data to build predictive models and insights for business decisions. Works with Python, ML, and big data.",
+    "courses": [
+      {
+        "name": "Intro to Machine Learning",
+        "provider": "Coursera",
+        "level": "Beginner"
+      },
+      {
+        "name": "Applied Data Science with Python",
+        "provider": "SWAYAM",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "ui_ux_designer",
+    "title": "UI/UX Designer",
+    "domain": "Design, Product",
+    "skills": [
+      "figma",
+      "wireframing",
+      "prototyping",
+      "user research",
+      "visual design"
+    ],
+    "education": [
+      "BDes",
+      "Any + Design Bootcamp"
+    ],
+    "description": "Designs intuitive user interfaces and experiences, conducts user research and prototypes solutions.",
+    "courses": [
+      {
+        "name": "UX Research Fundamentals",
+        "provider": "Udemy",
+        "level": "Beginner"
+      },
+      {
+        "name": "Human-Computer Interaction",
+        "provider": "SWAYAM",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "civil_services",
+    "title": "Civil Services (Administration)",
+    "domain": "Government, Public Policy",
+    "skills": [
+      "general studies",
+      "policy",
+      "ethics",
+      "communication",
+      "leadership"
+    ],
+    "education": [
+      "Any Bachelor's"
+    ],
+    "description": "Serves in government administration with impact on policy and public welfare; requires UPSC exam preparation.",
+    "courses": [
+      {
+        "name": "Public Policy Basics",
+        "provider": "SWAYAM",
+        "level": "Beginner"
+      },
+      {
+        "name": "Ethics and Governance",
+        "provider": "SWAYAM",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "entrepreneur",
+    "title": "Entrepreneur / Startup Founder",
+    "domain": "Business, Innovation",
+    "skills": [
+      "business model",
+      "marketing",
+      "fundraising",
+      "leadership",
+      "problem solving"
+    ],
+    "education": [
+      "Any Bachelor's"
+    ],
+    "description": "Builds and scales new ventures by identifying problems and delivering products or services.",
+    "courses": [
+      {
+        "name": "Entrepreneurship 101",
+        "provider": "NPTEL",
+        "level": "Beginner"
+      },
+      {
+        "name": "Lean Startup",
+        "provider": "Coursera",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "mechanical_engineer",
+    "title": "Mechanical Engineer",
+    "domain": "Engineering",
+    "skills": [
+      "mechanics",
+      "cad",
+      "manufacturing",
+      "mathematics",
+      "problem solving"
+    ],
+    "education": [
+      "BTech Mechanical"
+    ],
+    "description": "Designs and builds mechanical systems, machines, and products; works with CAD and manufacturing processes.",
+    "courses": [
+      {
+        "name": "CAD with SolidWorks",
+        "provider": "Coursera",
+        "level": "Beginner"
+      },
+      {
+        "name": "Manufacturing Processes",
+        "provider": "NPTEL",
+        "level": "Intermediate"
+      }
+    ]
+  }
+]
